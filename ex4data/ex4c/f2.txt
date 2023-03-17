@@ -1,0 +1,12 @@
+[ 8 43]
+lr 374
+dichotomy 374
+[-73  38]
+lr 367
+dichotomy 368
+[-28  -2]
+lr 165
+dichotomy 166
+[54 13]
+lr 311
+dichotomy 312
